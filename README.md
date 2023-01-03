@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fingersdanny
+- 👋 Hi, I'm Daniel Ko
 - 👀 I’m interested in making a better world
 - 🌱 I’m currently learning Python for coding tests
 - 💞️ I’m looking to collaborate on individual wallet collector of NFTs
