@@ -7,7 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hodako97)](https://solved.ac/hodako97)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fingersdanny)](https://github.com/fingersdanny/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isevou__)](https://github.com/isevou__/github-readme-stats)
 
 <!---
 fingersdanny/fingersdanny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
