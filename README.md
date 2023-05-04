@@ -1,7 +1,6 @@
-- 👋 Hi, I'm Daniel Ko
-- 👀 I’m interested in making a better world
-- 🌱 I’m currently learning Python for coding tests
-- 💞️ INTP
+- 👋 Hi, I'm Daniel Ko.
+- 👀 I’m interested in making a better world.
+- 🌱 I’m currently learning Spring and Java.
 - 📫 How to reach me : email me : kbry12@naver.com
 
 [![Solved.ac
