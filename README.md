@@ -44,6 +44,16 @@ I love to learn new languages (both programming and linguistic) :green_heart: an
     <img src="https://img.shields.io/badge/Apache Kafka-232F3E?style=flat-square&logo=Apache Kafka&logoColor=white" />
 </div>
 
+<br>
+
+<div align="center">
+    <div><strong>Learned</strong></div>
+    <br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
+</div>
+
 ## etc
 
 <p float="left">
