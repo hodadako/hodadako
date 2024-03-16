@@ -40,7 +40,7 @@ I love to learn new languages (both programming and linguistic) :green_heart: an
     <br>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
     <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=Gin&logoColor=white" />
-    <img src="https://img.shields.io/badge/Japanese-DA0530?style=flat-square&logo=Go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Japanese-DA0530?style=flat-square&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Kafka-232F3E?style=flat-square&logo=Apache Kafka&logoColor=white" />
 </div>
 
