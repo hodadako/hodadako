@@ -3,7 +3,7 @@ fingersdanny/fingersdanny is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## Intro
-Hi there! I'm hodako, a **backend engineer** using ``Java`` and ``Spring Boot``.  
+Hi! I'm hodako, a **backend engineer** using ``Java`` and ``Spring Boot``.  
 I love to learn new languages (both programming and linguistic) :green_heart: and _**believe techs can better our world!**_
 
 <div align="center">
