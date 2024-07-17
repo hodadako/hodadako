@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 Hi! I'm hodako, a **backend engineer** using ``Java`` and ``Spring Boot``.  
 I love to learn new languages (both programming and linguistic) :green_heart: and _**believe techs can better our world!**_
 
+feel free to reach me via email or rallit resume! 
 <div align="center">
   <a href="https://isevou.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory_[KR]-000000?style=flat-square&logo=Tistory&logoColor=white" />
