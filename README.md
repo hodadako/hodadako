@@ -43,6 +43,7 @@ feel free to reach me via email or rallit resume!
     <img src="https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=Gin&logoColor=white" />
     <img src="https://img.shields.io/badge/Japanese-DA0530?style=flat-square&logoColor=white" />
     <img src="https://img.shields.io/badge/Apache Kafka-232F3E?style=flat-square&logo=Apache Kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/terraform-844FBA?style=flat-square&logo=Terraform&logoColor=violet" />
 </div>
 
 <br>
