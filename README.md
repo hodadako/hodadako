@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ```kotlin 
 object hodako {
 // I wanted my GitHub username to be hodako, but it was already taken.
-  val aliases = listOf("Daniel Ko", "isevou__(I see you)")
+  val aliases = listOf("Daniel Ko", "isevou__(I see you)", "hodako")
   val title = "Backend Software Engineer"
   val motto = "try again, fail again, fail better."
   val stack = listOf("Java", "Spring Boot", "AWS", "MySQL", "Docker")
