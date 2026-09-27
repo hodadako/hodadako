@@ -4,13 +4,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```kotlin 
-object hodako {
-// I wanted my GitHub username to be hodako, but it was already taken.
-  val aliases = listOf("Daniel Ko", "noheilnohate", "hodako")
-  val title = "Software Engineer"
-  val motto = "try again, fail again, fail better."
-  val stack = listOf("Java", "Spring Boot", "AWS", "MySQL", "Docker")
-  val currentInterests = listOf("k8s", "Kotlin", "TypeScript")
+developer("hodako") {
+    aka("Daniel Ko", "noheilnohate")
+
+    backend {
+        with(Kotlin, SpringBoot, MySQL, Redis)
+        on(AWS)
+    }
+
+    currently {
+        learning(Kubernetes, TypeScript)
+        thinkingAbout(DistributedSystems)
+    }
+
+    onFailure {
+        tryAgain()
+        failAgain()
+        failBetter()
+    }
 }
 ``` 
 
