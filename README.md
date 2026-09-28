@@ -8,13 +8,12 @@ developer("hodako") {
     aka("Daniel Ko", "noheilnohate")
 
     backend {
-        with(Kotlin, SpringBoot, MySQL, Redis)
+        with(Kotlin, Spring Boot, MySQL, Redis)
         on(AWS)
     }
 
     currently {
         learning(Kubernetes, TypeScript)
-        thinkingAbout(DistributedSystems)
     }
 
     onFailure {
