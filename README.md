@@ -3,7 +3,7 @@ hodadako/hodadako is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-```kotlin 
+```markdown
 AI deleted all my README.md
 ``` 
 
